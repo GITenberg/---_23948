@@ -1,0 +1,29 @@
+_repo: '---_23948'
+_version: 0.1.0
+alternative_title: Gao Shi Zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huangfu, Mi
+    alias: 皇甫謐
+    birthdate: 215
+    deathdate: 282
+    gutenberg_agent_id: '26140'
+    url: http://www.gutenberg.org/2009/agents/26140
+description: ''
+gutenberg_issued: '2007-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23948'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, Chinese'
+- !lcc 'DS'
+- !lcsh 'China -- Biography'
+title: 高士傳
+url: http://www.gutenberg.org/ebooks/23948
